@@ -1,0 +1,71 @@
+[0730/130557:ERROR:gles2_cmd_decoder.cc(5484)] .SharedGraphicsContext: GL ERROR :GL_INVALID_VALUE : glTexParameteri: unknown texture
+[0730/171642:ERROR:gles2_cmd_decoder.cc(5484)] .SharedGraphicsContext: GL ERROR :GL_INVALID_VALUE : glTexParameteri: unknown texture
+[0730/201833:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0730/201833:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0731/205310:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0731/205311:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0731/205311:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0731/205313:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0731/205313:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121004:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121007:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121007:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121007:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121009:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121014:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121016:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121016:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121016:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121018:ERROR:gles2_cmd_decoder.cc(5484)] .SharedGraphicsContext: GL ERROR :GL_INVALID_VALUE : glTexParameteri: unknown texture
+[0804/121019:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121024:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121029:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121034:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121039:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121044:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121049:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121054:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121059:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121104:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121109:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121114:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121119:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121124:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121129:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121134:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121134:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121134:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121134:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121139:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121144:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121149:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121154:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121159:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121204:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121209:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121214:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121219:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121224:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121229:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121234:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121239:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121244:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121249:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121254:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121300:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121305:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121310:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121315:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121320:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121325:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121330:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121335:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121340:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121345:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121350:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121355:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121400:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0804/121406:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121406:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121410:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0804/121410:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
